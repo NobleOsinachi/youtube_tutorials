@@ -1,5 +1,5 @@
-# youtube_tutorials
+# YouTube Tutorials
 
-Each folder corresponds to a coding tutorial on my [Youtube channel](https://www.youtube.com/alysiatech?sub_confirmation=1). 
+Each folder corresponds to a coding tutorial on my [YouTube channel](https://www.youtube.com/@AlysiaTech?sub_confirmation=1). 
 
-Feel free to submit Youtube Ideas as Issues!
+Feel free to submit YouTube Ideas as Issues!
